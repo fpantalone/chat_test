@@ -3,4 +3,4 @@ first text file for git chat_test
 
 AV: Coucou Fabian
 FP: Hello Alain
-
+FP: Comment va David? les a t'il vaincu
